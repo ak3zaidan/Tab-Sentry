@@ -1,3 +1,6 @@
+
+<img width="709" height="319" alt="Screenshot 2025-08-07 at 8 48 17 PM" src="https://github.com/user-attachments/assets/6bbe4e3b-9cac-4376-83f0-353a5915cb7e" />
+
 ###############################
 # Setup Instructions 5 minutes:
 ###############################
